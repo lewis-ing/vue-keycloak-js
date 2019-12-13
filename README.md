@@ -31,13 +31,13 @@ will be redirected back to the application and remain unauthenticated.
 ### Install using yarn
 
 ```
-yarn add @lewis-ing/vue-keycloak-js
+yarn add @liuwenlong/vue-keycloak-js
 ```
 
 ### Install using npm
 
 ```
-npm install @lewis-ing/vue-keycloak-js --save
+npm install @liuwenlong/vue-keycloak-js --save
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ Tell Vue to install the plugin, and optionally pass in a JavaScript object addit
 configuration.
 
 ```javascript
-import VueKeyCloak from '@lewis-ing/vue-keycloak-js'
+import VueKeyCloak from '@liuwenlong/vue-keycloak-js'
 
 Vue.use(VueKeyCloak)
 
