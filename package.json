@@ -1,5 +1,5 @@
 {
-  "name": "@lewis-ing/vue-keycloak-js",
+  "name": "@liuwenlong/vue-keycloak-js",
   "version": "1.0.0",
   "description": "A Keycloak plugin for Vue >= 2.x",
   "main": "dist/lewis-ing-vue-keycloak.cjs.js",
