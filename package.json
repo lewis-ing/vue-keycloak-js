@@ -1,20 +1,14 @@
 {
-  "name": "@dsb-norge/vue-keycloak-js",
-  "version": "1.1.2",
-  "author": "Nils Lien <nils.lien@gmail.com>",
+  "name": "@lewis-ing/vue-keycloak-js",
+  "version": "1.0.0",
   "description": "A Keycloak plugin for Vue >= 2.x",
-  "main": "dist/dsb-vue-keycloak.cjs.js",
-  "module": "dist/dsb-vue-keycloak.esm.js",
-  "browser": "dist/dsb-vue-keycloak.umd.js",
-  "license": "ISC",
+  "main": "dist/lewis-ing-vue-keycloak.cjs.js",
+  "module": "dist/lewis-ing-vue-keycloak.esm.js",
+  "browser": "dist/lewis-ing-vue-keycloak.umd.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dsb-norge/vue-keycloak-js.git"
+    "url": "git@github.com:lewis-ing/vue-keycloak-js.git"
   },
-  "bugs": {
-    "url": "https://github.com/dsb-norge/vue-keycloak-js/issues"
-  },
-  "homepage": "https://github.com/dsb-norge/vue-keycloak-js",
   "dependencies": {
     "keycloak-js": "8.0.0"
   },
